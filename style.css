@@ -177,6 +177,7 @@ button#equal{
 }
 .calculator.dark button.btn-equal{
     background-color: #223323;
+    width: 100%;
 }
 .footer {
     position: absolute;
